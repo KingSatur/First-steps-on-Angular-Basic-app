@@ -1,0 +1,3 @@
+Uso del *ngIf
+Uso del *ngFor
+Estructura basica de un componente en angular
